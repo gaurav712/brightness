@@ -11,6 +11,7 @@
 #include <stdlib.h>
 #include <dirent.h>
 #include <string.h>
+#include <limits.h>
 
 #define BCKLTDIR "/sys/class/backlight/" /* Backlight directory */
 
